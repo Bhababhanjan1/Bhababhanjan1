@@ -27,29 +27,11 @@
 
 # 🚀 About Me
 
-<div align="center">
-
-| 🚀 **Developer Profile** | |
-|:---|:---|
-| 🌱 **Learning** | Data Analytics • Data Science • AI/ML • MLOps |
-| 💻 **Tech** | Python • SQL • EDA • Machine Learning |
-| 🤝 **Collaboration** | Open Source & AI Projects |
-| 📧 **Email** | **bhababhanjan2004panda@gmail.com** |
-| 📄 **Resume** | **[View Resume ↗](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)** |
-
-</div>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Science-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%2FML-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MLOps-8E44AD?style=for-the-badge"/>
-
-</p>
+- 🌱 Currently learning **Data Analytics, Data Science, AI/ML & MLOps**
+- 🤝 Looking to collaborate on **Python, Data Science & Machine Learning Projects**
+- 💬 Ask me about **Python, SQL, EDA, Data Analytics & Machine Learning**
+- 📫 Reach me at **bhababhanjan2004panda@gmail.com**
+- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
