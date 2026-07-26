@@ -8,6 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer;Artificial+Intelligence+Explorer;Open+Source+Learner"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=bhababhanjan1&style=for-the-badge&color=blue"/>
