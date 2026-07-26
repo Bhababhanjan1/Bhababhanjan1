@@ -39,7 +39,7 @@
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,c#"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,html,css"/>
 </p>
 
 ---
