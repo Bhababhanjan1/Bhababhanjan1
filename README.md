@@ -25,25 +25,25 @@
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 </p>
 
-# 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🌱 Currently learning **Data Analytics, Data Science, AI/ML & MLOps**
-- 🤝 Looking to collaborate on **Python, Data Science & Machine Learning Projects**
-- 💬 Ask me about **Python, SQL, EDA, Data Analytics & Machine Learning**
-- 📫 Reach me at **bhababhanjan2004panda@gmail.com**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)**
+<p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Building+AI+Solutions;Learning+Every+Day;Open+Source+Contributor;Data+Science+Explorer"/>
 
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cs,html,css"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-Learning-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Explorer-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-purple?style=for-the-badge"/>
+
+</p>
 
 ## 📊 Data Science & Machine Learning
 
