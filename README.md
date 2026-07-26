@@ -27,11 +27,24 @@
 
 # 🚀 About Me
 
-- 🌱 Currently learning **Data Analytics, Data Science, AI/ML & MLOps**
-- 🤝 Looking to collaborate on **Python, Data Science & Machine Learning Projects**
-- 💬 Ask me about **Python, SQL, EDA, Data Analytics & Machine Learning**
-- 📫 Reach me at **bhababhanjan2004panda@gmail.com**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)**
+```text
+> SYSTEM STATUS : ONLINE
+
+█████████████████████████████ 100%
+
+👤 USER        : Bhababhanjan Panda
+🎯 ROLE        : Data Science Enthusiast
+🌱 LEARNING    : Data Analytics | AI/ML | MLOps
+💻 TECH        : Python | SQL | EDA | Machine Learning
+🤝 OPEN TO     : Open Source Collaboration
+📧 CONTACT     : bhababhanjan2004panda@gmail.com
+📄 RESUME      : View Resume ↗
+
+> READY TO BUILD INTELLIGENT SOLUTIONS...
+```
+
+📄 **Resume:**  
+[View Resume](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
