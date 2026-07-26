@@ -33,7 +33,7 @@
 - 📫 Reach me at **bhababhanjan2004panda@gmail.com**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 # 💻 Tech Stack
 
@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,cs,html,css"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 ## 📊 Data Science & Machine Learning
 
@@ -61,7 +61,7 @@
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 ## ⚡ Frameworks
 
@@ -73,7 +73,7 @@
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 ## 🗄️ Databases
 
@@ -85,7 +85,7 @@
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 ## 🛠️ Tools & Platforms
 
@@ -101,7 +101,7 @@
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 ## ☁️ Cloud
 
@@ -111,7 +111,8 @@
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
 # 🏆 Achievements
 
 <p align="center">
@@ -128,7 +129,7 @@
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 # 📊 GitHub Analytics
 
@@ -148,7 +149,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 # 📈 Contribution Graph
 
@@ -158,7 +159,7 @@
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 # 🌐 Let's Connect
 
@@ -196,7 +197,7 @@
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 # 💡 Quote
 
@@ -206,7 +207,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 <div align="center">
 
