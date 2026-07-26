@@ -92,7 +92,7 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
-<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/Badge.svg" height="48"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="50"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/>
 
