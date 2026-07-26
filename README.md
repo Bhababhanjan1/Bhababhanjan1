@@ -161,11 +161,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/ocean.gif"/>
-
-</p>
 
 # 🌐 Let's Connect
 
