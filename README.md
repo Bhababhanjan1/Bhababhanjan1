@@ -80,7 +80,7 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50" alt="Microsoft SQL Server"/>
 
 </p>
 
