@@ -54,7 +54,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
 
-<img src="https://cdn.simpleicons.org/matplotlib" width="50"/>
+<img src="https://image.slidesharecdn.com/matplotlib-230613095351-e3d735ea/75/MatplotLib-pptx-1-2048.jpg" width="90"/>
 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
 
