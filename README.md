@@ -27,14 +27,43 @@
 
 # 🚀 About Me
 
-- 🌱 Currently learning **Data Analytics, Data Science, AI/ML & MLOps**
-- 🤝 Looking to collaborate on **Python, Data Science & Machine Learning Projects**
-- 💬 Ask me about **Python, SQL, EDA, Data Analytics & Machine Learning**
-- 📫 Reach me at **bhababhanjan2004panda@gmail.com**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)**
+<p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;AI+%7C+Data+Science+%7C+Machine+Learning;Python+Developer;Building+Intelligent+Applications"/>
 
+</p>
+
+<img align="right" width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
+```yaml
+Name: Bhababhanjan Panda
+
+Education:
+  - M.Tech (Computer Science & Engineering)
+
+Currently Learning:
+  - Data Science
+  - Machine Learning
+  - MLOps
+  - Generative AI
+
+Tech Stack:
+  - Python
+  - SQL
+  - FastAPI
+  - MongoDB
+  - Power BI
+
+Looking For:
+  - Open Source Collaboration
+  - AI Projects
+
+Contact:
+  Email: bhababhanjan2004panda@gmail.com
+
+Resume:
+  https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view
+```
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
