@@ -161,6 +161,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
+<p align="center">
+
+<img src="https://github.com/innng/innng/blob/master/assets/kyubey.gif?raw=true" width="250"/>
+
+</p>
+
 # 🌐 Let's Connect
 
 <p align="center">
