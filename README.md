@@ -27,21 +27,23 @@
 
 # 🚀 About Me
 
-<div align="center">
-
-> 🌱 I’m currently learning **Data Analytics, Data Science, AI/ML & MLOps**
+> 🌱 **I’m currently learning**  
+> **Data Analytics, Data Science, AI/ML & MLOps**
 >
-> 👯 I’m looking to collaborate on **Python, Data Science & Machine Learning Projects**
+> 👯 **I’m looking to collaborate on**  
+> **Python, Data Science & Machine Learning Projects**
 >
-> 🤝 I’m looking for opportunities to contribute to **Open Source AI & Machine Learning Projects**
+> 🤝 **I’m looking for opportunities to contribute to**  
+> **Open Source AI & Machine Learning Projects**
 >
-> 💬 Ask me about **Python, SQL, EDA, Data Analytics & Machine Learning**
+> 💬 **Ask me about**  
+> **Python, SQL, EDA, Data Analytics & Machine Learning**
 >
-> 📫 Reach me at **bhababhanjan2004panda@gmail.com**
+> 📫 **Reach me at**  
+> **bhababhanjan2004panda@gmail.com**
 >
-> 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)
-
-</div>
+> 📄 **Resume:**  
+> [View Resume](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
