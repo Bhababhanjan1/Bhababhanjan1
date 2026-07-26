@@ -163,7 +163,7 @@
 
 <p align="center">
 
-<img src="https://github.com/innng/innng/blob/master/assets/kyubey.gif?raw=true" width="250"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/ocean.gif"/>
 
 </p>
 
