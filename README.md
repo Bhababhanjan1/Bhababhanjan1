@@ -27,33 +27,23 @@
 
 # 🚀 About Me
 
-<table>
-<tr>
+- 🌱 Currently learning **Data Analytics, Data Science, AI/ML & MLOps**
+- 🤝 Looking to collaborate on **Python, Data Science & Machine Learning Projects**
+- 💬 Ask me about **Python, SQL, EDA, Data Analytics & Machine Learning**
+- 📫 Reach me at **bhababhanjan2004panda@gmail.com**
+- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view)**
 
-<td width="60%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
-### 👨‍💻 Who Am I?
+# 💻 Tech Stack
 
-🌱 Currently exploring **Machine Learning, MLOps & Generative AI**
+## 👨‍💻 Programming Languages
 
-💡 Interested in building intelligent applications using **Python, SQL & FastAPI**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,html,css"/>
+</p>
 
-🤝 Open to collaborating on **Open Source, Data Science & AI Projects**
-
-📫 <b>Email:</b> <a href="mailto:bhababhanjan2004panda@gmail.com">bhababhanjan2004panda@gmail.com</a>
-
-📄 <a href="https://drive.google.com/file/d/1cQYMahjRMSAtwHsxTfJELIw_oG7HGpnO/view"><b>View Resume ↗</b></a>
-
-</td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280"/>
-
-</td>
-
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 ## 📊 Data Science & Machine Learning
 
